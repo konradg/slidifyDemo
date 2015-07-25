@@ -1,6 +1,6 @@
 ---
 title       : Shiny Test App
-subtitle    : <this will do sth>
+subtitle    : Developing Data Products Course
 author      : Konrad Gorski
 job         : Coursera 2015
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -11,21 +11,17 @@ mode        : selfcontained # {standalone, draft}
 github:
   user: konradg
   repo: slidifyDemo
+---
 
 ---
 
-## Slide 1
+## What does the app do?
 
-Hello world
-1. Hello
-2. World
-
-* also here
-* and here
+Short answer: not much
 
 ---
 
-## Slide 2
+## How do I use it?
 
-Troll
-
+Just move the slider around. It will change the value displayed.
+Sorry, had no time to go any further than this really simple example!

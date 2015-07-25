@@ -11,12 +11,13 @@ mode        : selfcontained # {standalone, draft}
 github:
   user: konradg
   repo: slidifyDemo
+---
 
 ---
 
 ## What does the app do?
 
-# Short answer: not much
+Short answer: not much
 
 ---
 
@@ -24,4 +25,3 @@ github:
 
 Just move the slider around. It will change the value displayed.
 Sorry, had no time to go any further than this really simple example!
-
