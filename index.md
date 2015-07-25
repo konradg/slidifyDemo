@@ -11,7 +11,6 @@ mode        : selfcontained # {standalone, draft}
 github:
   user: konradg
   repo: slidifyDemo
----
 
 --- .class #id 
 
