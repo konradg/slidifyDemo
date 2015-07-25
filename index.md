@@ -26,9 +26,6 @@ No idea. So I just made a quick example.
 
 # Well, not much
 
-<<<<<<< Updated upstream
-It's just a simple histogram of a random data (normal distribution). For a demo of reactive text, a simple string reversal feature was introduced.
-=======
 It's just a simple histogram of a random data (normal distribution). For a demo of reactive text, a simple string reversal feature was introduced, using the following function:
 
 
@@ -39,7 +36,6 @@ paste(rev(strsplit('Sample input', NULL)[[1]]), collapse='')
 ```
 ## [1] "tupni elpmaS"
 ```
->>>>>>> Stashed changes
 
 ---
 
