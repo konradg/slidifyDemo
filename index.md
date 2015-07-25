@@ -12,13 +12,16 @@ github:
   user: konradg
   repo: slidifyDemo
 
---- .class #id 
+---
 
 ## Slide 1
 
 Hello world
-> 1. Hello
-> 2. World
+1. Hello
+2. World
+
+* also here
+* and here
 
 ---
 
